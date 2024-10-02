@@ -9,7 +9,7 @@ Agro Scraper - это инструмент для извлечения инфо�
 1. **Клонировать репозиторий**
 
    ```bash
-   git clone https://github.com/your-username/agro_scraper.git
+   git clone https://github.com/Eugen1y/aggro_scrapper.git
    cd agro_scraper
 2. **Установить виртуальное окружение**
 
